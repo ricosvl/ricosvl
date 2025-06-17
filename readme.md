@@ -19,7 +19,7 @@ From **frontend** to **backend**, from **interfaces** to a bit of **VR & gamific
 
 #### 🚀 Core Technologies
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)
 
 #### 🎨 Frontend & UI
 

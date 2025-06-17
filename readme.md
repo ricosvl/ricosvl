@@ -39,7 +39,7 @@ From **frontend** to **backend**, from **interfaces** to a bit of **VR & gamific
 
 #### 📈 Marketing & Analytics
 
-![SEO](https://img.shields.io/badge/-SEO-FF6F61?style=for-the-badge&logo=google&logoColor=white) ![SEA](https://img.shields.io/badge/-SEA-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-FF6F61?style=for-the-badge&logo=google&logoColor=white) ![SEA](https://img.shields.io/badge/-SEA-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![Google Ads](https://img.shields.io/badge/-Google%20Ads-34A853?style=for-the-badge&logo=googleads&logoColor=white) ![SISTRIX](https://img.shields.io/badge/-SISTRIX-003B71?style=for-the-badge) ![SalesViewer](https://img.shields.io/badge/-SalesViewer-1A1A1A?style=for-the-badge)
 
 #### 🧪 Currently Learning
 
